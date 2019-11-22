@@ -1,0 +1,6 @@
+{
+  "bracketTemplate": "This will be {{VAR}} with brackets",
+  "bracketTemplateSolution": "This will be templatized with brackets",
+  "multiBracketTemplate": "This will be {{VAR}} with brackets. Quite {{CONST}}!",
+  "multiBracketTemplateSolution": "This will be templatized with brackets. Quite cool!"
+}
